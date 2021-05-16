@@ -1,0 +1,12 @@
+Run Times in Big O Notation.
+--------------------------------------------------------
+|Algorithm                     |     Big O notation.    |
+---------------------------------------------------------
+| Linear Search                |       O(N)				|
+| Binary Search                |	   O(log N)			|
+| Insertion in unordered array |        O(1)   			|
+| Insertion in ordered array   |		O(N)			|
+| Deletion in unordered array  |		O(N)			|
+| Deletion in ordered array    |		O(N)		    |
+|					           |					    |  
+---------------------------------------------------------
